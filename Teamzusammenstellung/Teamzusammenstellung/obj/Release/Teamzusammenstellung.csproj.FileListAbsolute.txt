@@ -1,0 +1,10 @@
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\bin\Release\Teamzusammenstellung.exe.config
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\bin\Release\Teamzusammenstellung.exe
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\bin\Release\Teamzusammenstellung.pdb
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\obj\Release\Teamzusammenstellung.csprojAssemblyReference.cache
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\obj\Release\Teamzusammenstellung.Frm_Teamzusammstellung.resources
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\obj\Release\Teamzusammenstellung.Properties.Resources.resources
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\obj\Release\Teamzusammenstellung.csproj.GenerateResource.cache
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\obj\Release\Teamzusammenstellung.csproj.CoreCompileInputs.cache
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\obj\Release\Teamzusammenstellung.exe
+F:\Privatprojekte\Teamzusammenstellung in process\Teamzusammenstellung\obj\Release\Teamzusammenstellung.pdb
